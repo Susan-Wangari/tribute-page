@@ -1,0 +1,26 @@
+#title {
+  text-align: center;
+}
+#tribute-info {
+    font-size: 20px;
+  }
+
+  #image {
+    /* width: 740px; */
+    height: auto;
+    width: 50%;
+    margin-left: 300px;
+  }
+
+  #tribute-info {
+    display: block;
+    margin-left: 300px;
+  }
+  figcaption {
+    text-align: center;
+  }
+
+  #tribute-link {
+    margin-left: 500px;
+  }
+  
